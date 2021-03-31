@@ -1,0 +1,60 @@
+
+h1 {		
+  	text-align: center;
+  	font-family: monospace;
+  	font-size: 70px;  
+}
+
+h2 {		
+  	color: white;
+	font-size: 40px;
+	font-family: monospace;
+}
+
+h3 {		
+  	color: white;
+	font-size: 30px; 
+	font-family: monospace;
+}
+
+img {
+  	position: -webkit-sticky;
+  	position: sticky;
+  	top: 0;
+  	width: 100%;
+}
+
+.content {
+  	max-width: 900px;
+  	margin: auto;
+}
+
+.text {
+	background: rgba(0, 0, 0, 0.7);
+	padding: 30px;
+	position: relative;
+	padding: 25px 50px 50px;
+}	
+
+p {
+	color: white;
+	font-size: 20px;
+	font-family: Verdana, sans-serif;
+}
+
+ul {
+	color: white;
+	list-style-type: square;
+	font-size: 20px;
+	font-family: Verdana, sans-serif;	
+}
+
+a:link, a:visited {
+  color: pink;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
